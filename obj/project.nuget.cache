@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pZxW6BBBl3M44OA+WGKz9koKAJAiPXosPELBR5E0i8n3JQgZZusxmxaRK2K6lWeL3aoTTl8agkegZwpUFGffA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleg\\source\\repos\\RebootBot\\RebootBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Oleg\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
